@@ -19,7 +19,7 @@ public class HardSphere {
     public void display() {
         noStroke();
         if (highlight) {
-            fill(10,20,30);
+            fill(10, 20, 30);
         } else {
             fill(138, 176, 216);
         }
